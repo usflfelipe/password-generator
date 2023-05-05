@@ -10,12 +10,12 @@ https://usflfelipe.github.io/password-generator/
 
 ## Screenshot
 
-![screenshot 1](./assets/images/screenshot-1.PNG)
-![screenshot 2](./assets/images/screenshot-2.PNG)
-![screenshot 3](./assets/images/screenshot-3.PNG)
-![screenshot 4](./assets/images/screenshot-4.PNG)
-![screenshot 5](./assets/images/screenshot-5.PNG)
-![screenshot 6](./assets/images/screenshot-6.PNG)
+![screenshot 1](./assets/images/screenshot1.PNG)
+![screenshot 2](./assets/images/screenshot2.PNG)
+![screenshot 3](./assets/images/screenshot3.PNG)
+![screenshot 4](./assets/images/screenshot4.PNG)
+![screenshot 5](./assets/images/screenshot5.PNG)
+![screenshot 6](./assets/images/screenshot6.PNG)
 
 ## Contribuitions
 
