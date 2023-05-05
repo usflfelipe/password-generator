@@ -2,15 +2,23 @@
 
 ## Description
 
-In this project we had the challenge of creating a portfolio using only HTML and advanced CSS (such as media queries, flexbox and other CSS functions).
-The portfolio must include the Developer`s name, a recent photo, an "About Me" section, a showcase of work and contact infos! The links in navigation must scroll to corresponding section, the primary portfolio image must be larger than others and linked to deployed projects, and also the website needs to be responsive on various screens and devices.
+In this project we had the challenge of making a secure password generator using HTML, CSS and mainly JavaScript. We can choose to generate a password between 8 and 128 characters containing upper and lower case letters, numbers and special characters.
 
 ## Deployed Application Link
 
-https://usflfelipe.github.io/portfolio-challenge/
+https://usflfelipe.github.io/password-generator/
 
 ## Screenshot
 
 ![screenshot 1](./assets/images/screenshot-1.PNG)
 ![screenshot 2](./assets/images/screenshot-2.PNG)
 ![screenshot 3](./assets/images/screenshot-3.PNG)
+![screenshot 4](./assets/images/screenshot-4.PNG)
+![screenshot 5](./assets/images/screenshot-5.PNG)
+![screenshot 6](./assets/images/screenshot-6.PNG)
+
+## Contribuitions
+
+* Starter code created by UCF Boot Camp
+* Code completed by Felipe Ursini
+* I worked in this code with my peer Renan Massini
